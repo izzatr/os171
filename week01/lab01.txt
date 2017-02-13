@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 mohammad.izzat StafCS 4096 Feb 13 13:48 .
+drwx--x--x  3 mohammad.izzat StafCS 4096 Feb 13 01:46 ..
+drwxr-xr-x  8 mohammad.izzat StafCS 4096 Feb 13 13:46 .git
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 key
+-rw-r--r--  1 mohammad.izzat StafCS    0 Feb 13 13:48 lab01.txt
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 log
+-rw-r--r--  1 mohammad.izzat StafCS    7 Feb 13 01:31 README.md
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:41 sandbox
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:44 week00
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week01
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week02
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week03
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week04
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week05
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:34 week06
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 week07
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 week08
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 week09
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:35 week10
+drwxr-xr-x  2 mohammad.izzat StafCS 4096 Feb 13 01:36 xtra
+/home/fasilkom/mahasiswa/m/mohammad.izzat/os171/week01
