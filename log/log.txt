@@ -1,4 +1,5 @@
 w01-170213-01-PS-About: Do lab session for folder week00
 w01-170213-13-PS-About: Do lab session for folder week01
 w01-170213-14-DS-About: Discussing lab session week01 with Fajar Bardan and Ammar Shidqi
+w01-170213-15-LR-About: Understanding Operating Systems, From: https://www.youtube.com/watch?v=5AjReRMoG3Y
 
