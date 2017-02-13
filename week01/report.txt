@@ -1,3 +1,4 @@
+#izzatr
 Di week01 saya belajar menggunakan github dengan baik. Selain itu juga saya belajar untuk menggunakan ssh.
 Pada week kali ini juga saya akhirnya memahami bagaimana cara membuat direktori, menghapusnya, mengupdatenya, dan lain sebagainya.
 

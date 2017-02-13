@@ -1,1 +1,5 @@
-izzat_raihan
+#izzat_raihan
+
+Pada Week00 ini saya belajar untuk menggunakan github dengan baik seperti push dan juga belajar membuat txt dan mengeditnya.
+
+Terima kasih Week00 :)
