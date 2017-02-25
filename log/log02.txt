@@ -1,0 +1,6 @@
+w02-170219-20-PS-About: do lab session
+w02-170219-21-PS-About: do lab session
+w02-170221-10-DS-About: Discussing OS with friend
+w02-170221-11-LR-About: Learn OS
+w02-170223-20-DS-About: Discussing OS with friend
+w02-170223-21-DS-About: Discussing OS with friend 
