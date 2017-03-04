@@ -1,0 +1,5 @@
+w03-170227-15-PS-About: Do lab session
+w03-170228-13-PS-About: Do lab session
+w03-170228-14-PS-About: Do lab session
+w03-170302-10-LR-About: Learn about booting
+w03-170303-20-DS-ABout: Discussing OS with friends
