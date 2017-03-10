@@ -1,0 +1,5 @@
+w04-170310-16-PS-About: Doing lab session for week04
+w04-170310-17-PS-About: Doing lab session for week04
+204-170310-18-DS-About: Discussing with friends about c programming, pointer, and I/O
+w04-180310-03-PS-About: Doing lab session for week04
+w04-180310-04-PS-About: Doing lab session for week04
