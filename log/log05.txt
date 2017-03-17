@@ -1,0 +1,5 @@
+w05-170316-12-LR-About: Learn OS
+w05-170317-20-PS-About: Doing lab session for week05
+w05-170317-21-DS-About: Discussing with friends about toprc
+w05-170317-22-DS-About: Discussing with friends about malloc() and so on
+w05-170318-02-PS-About: Doing lab session for week05
