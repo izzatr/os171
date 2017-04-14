@@ -1,5 +1,5 @@
 w06-170411-09-DS-About: Discuss OS about Fork
 w06-170411-10-LR-About: Learn OS about Fork
 w06-170414-22-PS-About: Doing lab session for week06
-w06-170415-22-PS-About: Doing lab session for week06
-w06-170415-02-PS-About: Doing lab session for week06
+w06-170414-23-PS-About: Doing lab session for week06
+w06-170415-00-PS-About: Doing lab session for week06
